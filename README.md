@@ -20,12 +20,6 @@
 
 <h1 align="center">Hi it's me Jane!🙋🏻‍♀️</h1>
 
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
 <p align="left">- 👩🏻‍💻 I'm taking Bachelor of Science in Information Technology, Soon to be a developer🤞🏻<br>- 📚 I'm currently learning C#, JAVA, Python<br>- ⚡ In my free time I read webtoon</p>
 
 ###
